@@ -1,7 +1,19 @@
-## Bem-Vindos!!!👋
+## 👋 Olá! Sou Aysllan Santos, desenvolvedor frontend apaixonado por criar interfaces modernas e eficientes.
 
+💻 Tecnologias:
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, React.js.
+
+Backend: Node.js, Express, SQLite (explorando)
+
+Outras habilidades: Git, GitHub, consumo de APIs.
+
+🚀 Sempre em busca de novos desafios e aprendizado contínuo para desenvolver soluções inovadoras.
+
+🔗 Conecte-se comigo: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysllan-santos/)
+
+## Meu Instagram:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aysllan_san/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysllan-santos/)
 
 
 ![Aysllan GitHub stats](https://github-readme-stats.vercel.app/api?username=aysllanpereira&show_icons=true&theme=dark)
