@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Aysllan Santos, desenvolvedor frontend apaixonado por criar interfaces modernas e eficientes.
+## 👋 Olá! Sou Aysllan Santos, desenvolvedor frontend entusiasta e apreciador da Tecnologia.
 
 💻 Tecnologias:
 
@@ -10,7 +10,8 @@ Outras habilidades: Git, GitHub, consumo de APIs.
 
 🚀 Sempre em busca de novos desafios e aprendizado contínuo para desenvolver soluções inovadoras.
 
-🔗 Conecte-se comigo: 
+## 🔗 Conecte-se comigo: 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysllan-santos/)
 
 ## Meu Instagram:
