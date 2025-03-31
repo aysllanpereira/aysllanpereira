@@ -32,6 +32,3 @@ Outras habilidades: Git, GitHub, consumo de APIs.
 <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="Bootstrap5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
-
-Apaixonado por tecnologia e pelo que ela pode proporcionar!
-
