@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Aysllan Santos, desenvolvedor frontend entusiasta e apreciador da Tecnologia.
+## 👋 Olá! Sou Aysllan Santos! Desenvolvedor frontend, entusiasta e apreciador da Tecnologia.
 
 💻 Tecnologias:
 
